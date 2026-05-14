@@ -1,0 +1,7 @@
+*.mp4
+*.pth
+*.pt
+weights/
+dataset/
+videos/
+__pycache__/
